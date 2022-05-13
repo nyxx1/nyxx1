@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeevitha
+- 👋 Hi, I’m nyx
 - 👀 I’m interested in learning pretty much anything about computers
 - 🌱 I’m currently learning python
 - 📫 How to reach me 
