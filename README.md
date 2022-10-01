@@ -13,9 +13,9 @@ Hi, I'm Jeevitha!
 <hr>
 <pre>
 💻 I am a Computer Science Engineering Student
-🌐 I am interested in Web Development and Cybersecurity
+🌐 I am interested in Full-Stack Development and Cybersecurity and Competitive Programming
 🌱 Currently learning Python and DSA
-🚩 I am interested in playing CTFs
+🚩 I am an Active CTF Player
 </pre>
 <hr>
 
