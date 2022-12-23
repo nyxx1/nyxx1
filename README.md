@@ -10,14 +10,6 @@ Hi, I'm Jeevitha!
 
 </p>
 
-<hr>
-<pre>
-💻 I am a Computer Science Engineering Student
-🌐 I am interested in Web Development and Cybersecurity
-🌱 Currently learning Python and DSA
-🚩 I am interested in playing CTFs
-</pre>
-<hr>
 
 
 ## <a href="https://github.com/nyxx13"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
